@@ -1,6 +1,6 @@
 # 📱 ChatApplication (Android - Java + Firebase)
 
-An internal chat application designed specifically for company employees to communicate and share updates within their teams. It supports one‑on‑one messaging, group chats, and real‑time updates, fostering team collaboration and streamlined internal communication :contentReference[oaicite:1]{index=1}.
+An internal chat application designed specifically for company employees to communicate and share updates within their teams. It supports one‑on‑one messaging, group chats, and real‑time updates, fostering team collaboration and streamlined internal communication.
 
 ---
 
